@@ -28,7 +28,7 @@
     position: absolute;
     bottom: 150px;
     right: -200px;
-animation: plan 4s linear infinite;
+animation: plan 8s linear infinite;
 transform-origin: 100% 50%;
 }
 
